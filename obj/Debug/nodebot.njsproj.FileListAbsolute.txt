@@ -1,3 +1,3 @@
-R:\Coding\Firstnodebot\nodebot\obj\Debug\nodebot.njsprojAssemblyReference.cache
 R:\Coding\Firstnodebot\nodebot\obj\Debug\nodebot.njsproj.CoreCompileInputs.cache
 R:\Coding\Firstnodebot\nodebot\bin\Microsoft.NodejsTools.WebRole.dll
+R:\Coding\Firstnodebot\nodebot\obj\Debug\nodebot.njsprojAssemblyReference.cache
